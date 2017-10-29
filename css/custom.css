@@ -1,0 +1,7 @@
+/*! Place your custom styles here */
+.bar .container .row{
+	max-height: 30px;
+}
+.bar .logo{
+	max-height: 8rem;
+}
